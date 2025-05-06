@@ -9,7 +9,7 @@ Atuar na área de Garantia de Qualidade de Software
 ---
 
 ### 💼 Experiência Profissional
-**INDT - Instituto de Desenvolvimento Tecnológico - Estagiário em Qualidade de Software** (2023 - 2024)
+**INDT - Instituto de Desenvolvimento Tecnológico - Estagiário em Qualidade de Software** (2023 - 2024).
 
 - Realizei testes funcionais e exploratórios para garantir a qualidade e a estabilidade das versões de software.
 - Executei testes automatizados, otimizando o processo de validação e aumentando a eficiência das entregas.
