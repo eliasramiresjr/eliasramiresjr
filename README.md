@@ -24,7 +24,7 @@ Comunicativo e focado em trabalhar bem em equipe, sempre buscando aprender e evo
 <!-- Contador de Visitantes -->
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rfahham}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{eliasramiresjr}/count.svg" /></p> 
   <br>
 </div>
 
