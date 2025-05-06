@@ -1,6 +1,5 @@
 **Elias Ramires Júnior**  
-E-mail
-[LinkedIn](https://github.com/eliasramiresjr/eliasramiresjr) | Manaus/AM
+E-mail: ramires_junior11@hotmail.com | [LinkedIn](https://github.com/eliasramiresjr/eliasramiresjr) 
 
 ---
 
