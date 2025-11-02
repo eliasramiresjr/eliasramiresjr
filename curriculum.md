@@ -9,7 +9,7 @@ Atuar na área de Garantia de Qualidade de Software
 ---
 
 ### 💼 Experiência Profissional
-**Instituto de Pesquisas Eldorado - Estagiário em Qualidade de Software** (2023 - 2024).
+**Instituto de Pesquisas Eldorado - Estagiário em Qualidade de Software** (2025 - *até o momento*).
 
 - Responsável pela execução e manutenção de testes end-to-end (E2E) Web e Android, garantindo a qualidade e a estabilidade das funcionalidades em ambientes de homologação e produção.
 - Colaboro com times de desenvolvimento e produto para identificar requisitos, criar cenários de teste e validar entregas.
@@ -49,12 +49,12 @@ Atuar na área de Garantia de Qualidade de Software
 
 ### 📚 Certificados e Cursos
 - Inglês - Aslan
+- Jornada QA - EBAC
 - Git na prática - Academy talentos
 - Curso de introdução aos testes de API REST - Julio de Lima
-- Jornada QA - EBAC
 
 ---
 
 ### 🌍 Idiomas
-- Inglês: Intermediário
 - Português: Nativo
+- Inglês: Intermediário
