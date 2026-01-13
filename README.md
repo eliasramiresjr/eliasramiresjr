@@ -14,14 +14,6 @@ Acredito que qualidade vai além de encontrar erros — é sobre garantir valor 
 - 📚 [Curriculum](curriculum.md)
 - ✉️ ramires_junior11@hotmail.com
 
-## 📚 Github Stats
-
-<div>
-  <a href="[https://github.com/eliasramiresjr](https://github.com/eliasramiresjr)"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eliasramiresjr&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasramiresjr&layout=compact&langs_count=6&theme=one_dark_pro"/>
-</div>
-
 ---
 
 <div align="center" style="display: inline_block">
