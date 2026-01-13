@@ -18,12 +18,12 @@ Atuar na área de Garantia de Qualidade de Software
 - Contribuo na análise de cenários de usuário, garantindo que o produto final fosse intuitivo, funcional e sem falhas críticas.
 - Automatizo testes utilizando Robot Framework, aumentando a eficiência dos ciclos de testes e reduzindo erros manuais.
 
-**WiseVAs | Virtual Assistants - Analista de Qualidade de Software Júnior (temporário)** (2025 - 2026).
+**WiseVAs | Virtual Assistants - Analista de Qualidade de Software Júnior (temporário)** (2025 - 2025).
 
 - Atuei na análise de requisitos, planejamento e execução de testes.
 - Auxiliei na atualização de documentação de testes, fluxos e regras identificadas para criar casos de teste, cenários e checklists baseados nas regras de negócio.
 - Mapeei e compreendi fluxos simples de gestão para apoiar decisões do time, analisar requisitos e levantar dúvidas para garantir clareza e entendimento.
-- Colaborei com o time para garantir entregas com qualidade e aprendizado contínuo de metodologias de testes.
+- Colaborei com o time para garantir entregas com qualidade e aprendizado contínuo.
 - Realizei testes manuais, funcionais e exploratórios para garantir a qualidade e a estabilidade das versões de software.
 - Registrei de bugs de forma detalhada na plataforma Click Up, colaborando na priorização de correções com as equipes de desenvolvimento.
 
