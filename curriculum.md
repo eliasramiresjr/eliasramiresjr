@@ -1,4 +1,4 @@
-**Elias Ramires Júnior**  
+# Elias Ramires Júnior
 E-mail: ramires_junior11@hotmail.com | [LinkedIn](https://www.linkedin.com/in/eliasramiresjr/) 
 
 ---
