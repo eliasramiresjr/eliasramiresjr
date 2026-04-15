@@ -13,10 +13,11 @@ Atuar na área de Garantia de Qualidade de Software
 
 - Responsável pela execução e manutenção de testes end-to-end (E2E) Web e Android, garantindo a qualidade e a estabilidade das funcionalidades em ambientes de homologação e produção.
 - Colaboro com times de desenvolvimento e produto para identificar requisitos, criar cenários de teste e validar entregas.
-- Participo ativamente de cerimônias ágeis contribuindo com insights de qualidade desde o início do ciclo de desenvolvimento.
 - Reporto bugs e inconsistências através de ferramentas Jira e Confluence, acompanhando sua correção e reteste.
 - Contribuo na análise de cenários de usuário, garantindo que o produto final fosse intuitivo, funcional e sem falhas críticas.
-- Automatizo testes utilizando Robot Framework, aumentando a eficiência dos ciclos de testes e reduzindo erros manuais.
+- Automatizo testes web (front-end) com Robot Framework, aumentando a eficiência dos ciclos de validação e reduzindo significativamente erros manuais.
+- Desenvolvo e automatizo testes de API utilizando Robot Framework, garantindo maior confiabilidade, eficiência e cobertura nas validações dos serviços.
+- Atuo na implementação e otimização de pipelines de CI/CD no Jenkins, integrando testes automatizados e garantindo maior eficiência e confiabilidade nas entregas.
 
 **WiseVAs | Virtual Assistants - Analista de Qualidade de Software Júnior (temporário)** (2025 - 2025).
 
