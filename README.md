@@ -1,7 +1,7 @@
 <!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd6387a8&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+Elias+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Robot&pause=1000&color=DD6387&width=435&lines=Ol%C3%A1%2C+eu+sou+Elias+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 Sou um profissional em início de carreira na área de Qualidade de Software, com experiência em testes manuais e foco crescente em automação de testes. Tenho como objetivo atuar no desenvolvimento de soluções que tornem o processo de QA mais eficiente, escalável e integrado ao ciclo de desenvolvimento.
 
@@ -36,4 +36,4 @@ Acredito que qualidade vai além de encontrar erros — é sobre garantir valor 
 </div>
 
 <!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd6387a8&height=120&section=footer"/>
