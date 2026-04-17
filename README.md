@@ -14,25 +14,23 @@ Acredito que qualidade vai além de encontrar erros — é sobre garantir valor 
 - 📚 [Curriculum](curriculum.md)
 - ✉️ ramires_junior11@hotmail.com
 
-
 ## 📚 Github Stats
 
 <div>
   <a href="[https://github.com/eliasramiresjr](https://github.com/eliasramiresjr)"> 
-  <img height="150em" src="https://github-readme-stats-one.vercel.app/api?username=eliasramiresjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=eliasramiresjr&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats-one.vercel.app/api?username=eliasramiresjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=eliasramiresjr&layout=compact&langs_count=6&theme=dracula"/>
 </div>
-
 
 ---
 
-<div align="center" style="display: inline_block">
-  <img align="center" alt="Ally-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ally-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ally-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Ally-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="Ally-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ally-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="Swift" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
 </div>
 
 <!-- Parte inferior da página -->
