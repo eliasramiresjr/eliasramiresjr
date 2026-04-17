@@ -22,16 +22,5 @@ Acredito que qualidade vai além de encontrar erros — é sobre garantir valor 
   <img height="200em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=eliasramiresjr&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
----
-
-<p align="center">
-  <img hspace="10" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img hspace="10" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img hspace="10" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img hspace="10" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img hspace="10" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img hspace="10" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
-</p>
-
 <!-- Parte inferior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd6387a8&height=120&section=footer"/>
