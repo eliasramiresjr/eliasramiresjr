@@ -33,5 +33,7 @@ Acredito que qualidade vai além de encontrar erros — é sobre garantir valor 
   <img alt="Swift" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
 </div>
 
+---
+
 <!-- Parte inferior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd6387a8&height=120&section=footer"/>
