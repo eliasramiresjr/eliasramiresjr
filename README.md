@@ -18,11 +18,11 @@ Acredito que qualidade vai além de encontrar erros — é sobre garantir valor 
 
 <div>
   <a href="[https://github.com/eliasramiresjr](https://github.com/eliasramiresjr)"> 
-  <img height="150em" src="https://github-readme-stats-one.vercel.app/api?username=eliasramiresjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=eliasramiresjr&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats-one.vercel.app/api?username=eliasramiresjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=eliasramiresjr&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
-<!-- ---
+---
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img align="center" alt="Ally-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +31,7 @@ Acredito que qualidade vai além de encontrar erros — é sobre garantir valor 
   <img align="center" alt="Ally-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Ally-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ally-Swift" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-</div> -->
+</div>
 
 <!-- Parte inferior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd6387a8&height=120&section=footer"/>
